@@ -6,6 +6,6 @@ export default function robots(): MetadataRoute.Robots {
       userAgent: "*",
       allow: "/",
     },
-    sitemap: "https://bishnu-portfolio.vercel.app/sitemap.xml",
+    sitemap: "https://personal-portfolio-neon-gamma-57.vercel.app/sitemap.xml",
   };
 }

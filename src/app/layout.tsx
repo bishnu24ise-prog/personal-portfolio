@@ -21,7 +21,7 @@ const jetbrainsMono = JetBrains_Mono({
 });
 
 export const metadata: Metadata = {
-  metadataBase: new URL("https://bishnu-portfolio.vercel.app"),
+  metadataBase: new URL("https://personal-portfolio-neon-gamma-57.vercel.app"),
   title: "Bishnu Kumar Sardar | Full-Stack Developer & AI Systems Engineer",
   description:
     "Portfolio of Bishnu Kumar Sardar — Full-Stack MERN Developer, AI-Powered Web App Builder, and UI/UX Designer (B.E. ISE, CGPA 8.80). Hackathon winner shipping products across AI, accessibility, agriculture, Web3, and 3D visualization.",
@@ -45,7 +45,7 @@ export const metadata: Metadata = {
   openGraph: {
     type: "website",
     locale: "en_US",
-    url: "https://bishnu-portfolio.vercel.app",
+    url: "https://personal-portfolio-neon-gamma-57.vercel.app",
     title: "Bishnu Kumar Sardar | Full-Stack Developer & AI Systems Engineer",
     description:
       "I build AI-powered products that solve real problems, from accessibility to agriculture. Explore 14+ shipped projects, hackathon victories, and 3D graphics.",

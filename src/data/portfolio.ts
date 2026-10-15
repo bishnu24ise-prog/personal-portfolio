@@ -23,6 +23,7 @@ export const PERSONAL_INFO = {
   github: "https://github.com/bishnu24ise-prog",
   linkedin: "https://www.linkedin.com/in/bishnu-kumar-sardar-767a57329",
   leetcode: "https://leetcode.com/u/Bishnu2005/",
+  liveUrl: "https://personal-portfolio-neon-gamma-57.vercel.app",
   resumeUrl: "https://drive.google.com/file/d/1XJmG_bwk02UN70vSVqcmqECkYnIwqhch/view?usp=sharing",
   resumeFallback: "/resume-bishnu-kumar-sardar.pdf",
   profileImage: "/images/profile.jpg",
